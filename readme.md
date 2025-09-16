@@ -1,4 +1,4 @@
-**RUST CATAN**
+## RUST CATAN
 What if Settlers of Catan was a singleplayer game, coded in Rust, for the command line? 
 (This is my first project in Rust, and I'm just trying to learn the language)
 
